@@ -1,0 +1,24 @@
+{
+  "source": {
+    "type": "github-release",
+    "owner": "storytold",
+    "repo": "effectcraft",
+    "version": "0.18.0",
+    "tag": "v0.18.0",
+    "archive": "effectcraft-0.18.0-linux-x86_64.tar.gz",
+    "url": "https://github.com/storytold/effectcraft/releases/download/v0.18.0/effectcraft-0.18.0-linux-x86_64.tar.gz",
+    "hash": "sha256-lNHYVpHVS6V/qG4Ehy+8xCbDPRvTZPH8l2sfYHNEiAs="
+  },
+  "package": {
+    "repo": "effectcraft",
+    "version": "0.18.0"
+  },
+  "binary": {
+    "name": "effectcraft"
+  },
+  "meta": {
+    "description": "EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust",
+    "homepage": "https://github.com/storytold/effectcraft",
+    "licenseSpdx": "Apache-2.0 AND MIT"
+  }
+}

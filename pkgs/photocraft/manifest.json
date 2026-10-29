@@ -1,0 +1,24 @@
+{
+  "source": {
+    "type": "github-release",
+    "owner": "storytold",
+    "repo": "photocraft",
+    "version": "0.17.0",
+    "tag": "v0.17.0",
+    "archive": "photocraft-0.17.0-linux-x86_64.tar.gz",
+    "url": "https://github.com/storytold/photocraft/releases/download/v0.17.0/photocraft-0.17.0-linux-x86_64.tar.gz",
+    "hash": "sha256-Uln5xCjI7jR4w1UA7OmHE1Ycr8BQ5MnrNUpQUPNusrg="
+  },
+  "package": {
+    "repo": "photocraft",
+    "version": "0.17.0"
+  },
+  "binary": {
+    "name": "photocraft"
+  },
+  "meta": {
+    "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+    "homepage": "https://getarcraft.com/apps/photocraft",
+    "licenseSpdx": "Apache-2.0 AND MIT"
+  }
+}
